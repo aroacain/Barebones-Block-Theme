@@ -1,0 +1,23 @@
+{
+  "name": "blockboilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "wp-scripts start assets/js/index.js assets/js/editor.js",
+    "dev": "wp-scripts dev",
+    "devFast": "wp-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aroa Cain",
+  "license": "ISC",
+  "dependencies": {
+    "@glidejs/glide": "^3.5.2",
+    "@wordpress/icons": "^7.0.1",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^24.0.0"
+  }
+}

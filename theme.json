@@ -1,0 +1,84 @@
+{
+  "version": 2,
+  "settings": {
+    "layout": {
+      "contentSize": "1200px"
+    },
+    "appearanceTools": false,
+    "border": {
+      "color": false,
+      "radius": false,
+      "style": false,
+      "width": false
+    },
+    "color": {
+      "custom": false,
+      "customDuotone": false,
+      "customGradient": false,
+      "defaultDuotone": false,
+      "defaultPalette": false,
+      "defaultGradients": false,
+      "palette": [
+        {
+          "name": "Blue",
+          "slug": "blue",
+          "color": "#0991d4"
+        },
+        {
+          "name": "Dark Gray",
+          "slug": "dark-gray",
+          "color": "#f2f5f7"
+        },
+        {
+          "name": "Gray",
+          "slug": "gray",
+          "color": "#666666"
+        },
+        {
+          "name": "White",
+          "slug": "white",
+          "color": "#fff"
+        }
+      ]
+    },
+    "spacing": {
+      "blockGap": null,
+      "margin": false,
+      "padding": false,
+      "units": []
+    },
+    "typography": {
+      "customFontSize": false,
+      "fontStyle": false,
+      "fontWeight": false,
+      "letterSpacing": false,
+      "lineHeight": false,
+      "textDecoration": false,
+      "textTransform": false,
+      "dropCap": false,
+      "fontSizes": [
+        {
+          "name": "Small",
+          "slug": "small",
+          "size": "1.2em"
+        },
+        {
+          "slug": "regular",
+          "name": "Regular",
+          "size": "1.5em"
+        },
+        {
+          "slug": "large",
+          "name": "Large",
+          "size": "2em"
+        },
+        {
+          "slug": "xl",
+          "name": "XL",
+          "size": "3em"
+        }
+      ],
+      "fontFamilies": []
+    }
+  }
+}

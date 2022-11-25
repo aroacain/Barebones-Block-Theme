@@ -1,0 +1,6 @@
+// Overwrite maximum height for some images
+.full-height {
+  img {
+    max-height: fit-content !important;
+  }
+}

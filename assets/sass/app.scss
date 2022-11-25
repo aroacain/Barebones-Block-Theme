@@ -1,0 +1,16 @@
+@import "global/variables";
+@import "global/mixins";
+@import "global/functions";
+@import "global/animations";
+@import "global/global";
+@import "global/typography";
+@import "global/utilities";
+@import "global/editor";
+
+@import "blocks/standard-blocks";
+
+@import "pages/home";
+@import "pages/coming-soon";
+
+@import "parts/footer";
+@import "parts/header";

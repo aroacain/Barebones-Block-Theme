@@ -1,0 +1,25 @@
+// Breakpoints
+
+@mixin maxSmall {
+  @media (max-width: 480px) {
+    @content;
+  }
+}
+
+@mixin atLarge {
+  @media (min-width: 1200px) {
+    @content;
+  }
+}
+
+@mixin WPMobile {
+  @media (max-width: 781px) {
+    @content;
+  }
+}
+
+@mixin WPDesktop {
+  @media (min-width: 782px) {
+    @content;
+  }
+}
