@@ -46,7 +46,7 @@ function ourtheme_register_patterns() {
         'layouts',
         array( 'label' => __( 'Custom Theme Layouts', 'pwmw' ) )
     );
-  include 'custom-patterns/sample.php';
+  include 'custom-layouts/sample.php';
 }
  
 add_action( 'init', 'ourtheme_register_patterns' );
